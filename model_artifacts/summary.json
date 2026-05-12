@@ -1,0 +1,135 @@
+{
+  "architecture": "per_category_catboost",
+  "best_algorithm": "CatBoost",
+  "avg_accuracy": 0.9258,
+  "avg_f1": 0.9247,
+  "n_categories": 15,
+  "n_diseases": 192,
+  "n_features": 377,
+  "category_results": {
+    "Allergic Reaction": {
+      "accuracy": 1.0,
+      "f1": 1.0,
+      "diseases": 3,
+      "rows": 1403
+    },
+    "Cardiovascular Disorder": {
+      "accuracy": 0.96,
+      "f1": 0.9596,
+      "diseases": 11,
+      "rows": 4369
+    },
+    "Dermatological Disorder": {
+      "accuracy": 0.8586,
+      "f1": 0.8583,
+      "diseases": 17,
+      "rows": 7917
+    },
+    "ENT Disorder": {
+      "accuracy": 0.9616,
+      "f1": 0.9613,
+      "diseases": 2,
+      "rows": 1825
+    },
+    "Eye Disorder": {
+      "accuracy": 0.7015,
+      "f1": 0.6966,
+      "diseases": 10,
+      "rows": 4640
+    },
+    "Gastrointestinal Disorder": {
+      "accuracy": 0.9228,
+      "f1": 0.9227,
+      "diseases": 22,
+      "rows": 11844
+    },
+    "Gynecologic Disorder": {
+      "accuracy": 0.9194,
+      "f1": 0.9195,
+      "diseases": 12,
+      "rows": 5391
+    },
+    "Musculoskeletal Disorder": {
+      "accuracy": 0.9853,
+      "f1": 0.9842,
+      "diseases": 13,
+      "rows": 4418
+    },
+    "Musculoskeletal Injury": {
+      "accuracy": 0.9726,
+      "f1": 0.9697,
+      "diseases": 20,
+      "rows": 3290
+    },
+    "Neurologic Disorder": {
+      "accuracy": 0.9877,
+      "f1": 0.9877,
+      "diseases": 8,
+      "rows": 4059
+    },
+    "Psychiatric Disorder": {
+      "accuracy": 0.8295,
+      "f1": 0.8263,
+      "diseases": 20,
+      "rows": 11054
+    },
+    "Respiratory Infection": {
+      "accuracy": 0.9042,
+      "f1": 0.904,
+      "diseases": 7,
+      "rows": 4747
+    },
+    "Substance-Related Disorder": {
+      "accuracy": 0.9547,
+      "f1": 0.9543,
+      "diseases": 10,
+      "rows": 5403
+    },
+    "Traumatic Injury": {
+      "accuracy": 0.9797,
+      "f1": 0.9775,
+      "diseases": 23,
+      "rows": 5183
+    },
+    "Urologic Disorder": {
+      "accuracy": 0.949,
+      "f1": 0.9489,
+      "diseases": 14,
+      "rows": 5091
+    }
+  },
+  "comparison_results": [
+    {
+      "Model": "LightGBM",
+      "Accuracy": 0.9092,
+      "Precision": 0.9108,
+      "Recall": 0.9092,
+      "F1-Score": 0.9094,
+      "Train Time (s)": 5.0
+    },
+    {
+      "Model": "XGBoost",
+      "Accuracy": 0.9118,
+      "Precision": 0.9129,
+      "Recall": 0.9118,
+      "F1-Score": 0.9117,
+      "Train Time (s)": 13.4
+    },
+    {
+      "Model": "CatBoost",
+      "Accuracy": 0.9228,
+      "Precision": 0.9239,
+      "Recall": 0.9228,
+      "F1-Score": 0.9227,
+      "Train Time (s)": 5.7
+    },
+    {
+      "Model": "Decision Tree",
+      "Accuracy": 0.8155,
+      "Precision": 0.8831,
+      "Recall": 0.8155,
+      "F1-Score": 0.8281,
+      "Train Time (s)": 0.1
+    }
+  ]
+}

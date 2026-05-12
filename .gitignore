@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+env/
+
+# Streamlit / local
+.streamlit/secrets.toml
+
+# Training noise (regenerate from notebook)
+catboost_info/
+
+# Non-CSV data archives / spreadsheets (keep datasets as CSV only)
+*.rar
+*.zip
+*.xlsx
+*.xls
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

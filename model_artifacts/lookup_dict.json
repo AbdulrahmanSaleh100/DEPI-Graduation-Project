@@ -1,0 +1,1154 @@
+{
+  "abdominal hernia": {
+    "medicine_1": "pain management",
+    "medicine_2": "surgical repair",
+    "medicine_3": "Un Known",
+    "side_effects": "generally well tolerated, minimal systemic side effects, post-operative pain, infection risk, bleeding, anesthesia risks"
+  },
+  "abscess of the lung": {
+    "medicine_1": "amoxicillin-clavulanate",
+    "medicine_2": "clindamycin",
+    "medicine_3": "metronidazole",
+    "side_effects": "diarrhea, nausea, rash, yeast infection, diarrhea, C. diff colitis, nausea, rash, metallic taste, nausea, headache, dizziness"
+  },
+  "acanthosis nigricans": {
+    "medicine_1": "Metformin",
+    "medicine_2": "Tretinoin",
+    "medicine_3": "Salicylic Acid",
+    "side_effects": "Dark velvety skin patches, Usually in skin folds, Itching, Skin thickening"
+  },
+  "achalasia": {
+    "medicine_1": "nifedipine",
+    "medicine_2": "botulinum toxin",
+    "medicine_3": "Un Known",
+    "side_effects": "flushing, edema, headache, reflex tachycardia, injection site pain, weakness, flu-like symptoms, ptosis"
+  },
+  "acne": {
+    "medicine_1": "Un Known",
+    "medicine_2": "Un Known",
+    "medicine_3": "Un Known",
+    "side_effects": "Un Known"
+  },
+  "acute bronchiolitis": {
+    "medicine_1": "Epinephrine (nebulized)",
+    "medicine_2": "Oxygen",
+    "medicine_3": "Saline (hypertonic)",
+    "side_effects": "Wheezing, Cough, Rapid breathing, Fever, Runny nose, Poor feeding in infants"
+  },
+  "acute bronchitis": {
+    "medicine_1": "Amoxicillin (if bacterial)",
+    "medicine_2": "Salbutamol",
+    "medicine_3": "Acetaminophen",
+    "side_effects": "Cough, Mucus production, Chest discomfort, Fatigue, Mild fever, Sore throat"
+  },
+  "acute stress reaction": {
+    "medicine_1": "Supportive Psychological First Aid",
+    "medicine_2": "CBT",
+    "medicine_3": "Short-term Propranolol",
+    "side_effects": "Emotional distress, bradycardia, fatigue, hypotension, bronchospasm"
+  },
+  "adhesive capsulitis of the shoulder": {
+    "medicine_1": "Physical Therapy",
+    "medicine_2": "Corticosteroid Injection",
+    "medicine_3": "Hydrodilatation",
+    "side_effects": "Muscle soreness, skin atrophy, procedural pain, temporary pain increase, infection"
+  },
+  "adjustment reaction": {
+    "medicine_1": "Supportive Psychotherapy",
+    "medicine_2": "CBT",
+    "medicine_3": "Short-term Benzodiazepines (anxiety)",
+    "side_effects": "Emotional distress, sedation, dependence, cognitive impairment, rebound anxiety"
+  },
+  "alcohol abuse": {
+    "medicine_1": "Naltrexone",
+    "medicine_2": "Acamprosate",
+    "medicine_3": "Disulfiram",
+    "side_effects": "Craving alcohol, Loss of control, Physical dependence, Tolerance, Withdrawal symptoms, Neglecting responsibilities"
+  },
+  "alcohol withdrawal": {
+    "medicine_1": "Diazepam",
+    "medicine_2": "Lorazepam",
+    "medicine_3": "Chlordiazepoxide",
+    "side_effects": "Tremors, Sweating, Anxiety, Nausea, Insomnia, Seizures"
+  },
+  "allergy to animals": {
+    "medicine_1": "Cetirizine",
+    "medicine_2": "Loratadine",
+    "medicine_3": "Fexofenadine",
+    "side_effects": "Sneezing, Runny nose, Itchy eyes, Skin rash, Asthma symptoms, Congestion"
+  },
+  "alopecia": {
+    "medicine_1": "minoxidil",
+    "medicine_2": "finasteride",
+    "medicine_3": "corticosteroids",
+    "side_effects": "hair growth (topical), fluid retention, tachycardia (oral), sexual dysfunction, decreased libido, breast tenderness, hyperglycemia, weight gain, osteoporosis, immunosuppression"
+  },
+  "amblyopia": {
+    "medicine_1": "No drug; patching",
+    "medicine_2": "Atropine drops",
+    "medicine_3": "Un Known",
+    "side_effects": "Reduced vision in one eye, Poor depth perception, Squinting, Head tilting, Eye turning"
+  },
+  "anal fissure": {
+    "medicine_1": "topical nitroglycerin",
+    "medicine_2": "nifedipine cream",
+    "medicine_3": "botulinum toxin",
+    "side_effects": "headache, hypotension, flushing, dizziness, flushing, edema, headache, reflex tachycardia, injection site pain, weakness, flu-like symptoms, ptosis"
+  },
+  "anal fistula": {
+    "medicine_1": "Fistulotomy (surgical)",
+    "medicine_2": "Seton Placement",
+    "medicine_3": "Infliximab (Crohn's-related)",
+    "side_effects": "Bleeding, infection, increased infection risk (infliximab), incontinence, pain"
+  },
+  "angina": {
+    "medicine_1": "Nitroglycerin (sublingual)",
+    "medicine_2": "Aspirin",
+    "medicine_3": "Metoprolol",
+    "side_effects": "Headache, GI bleeding, bradycardia, hypotension, flushing"
+  },
+  "anxiety": {
+    "medicine_1": "Sertraline",
+    "medicine_2": "Escitalopram",
+    "medicine_3": "Alprazolam",
+    "side_effects": "Excessive worry, Restlessness, Rapid heartbeat, Sweating, Trembling, Difficulty concentrating"
+  },
+  "aortic valve disease": {
+    "medicine_1": "Valve Replacement Surgery",
+    "medicine_2": "Transcatheter Aortic Valve Implantation (TAVI)",
+    "medicine_3": "Furosemide (symptom management)",
+    "side_effects": "Bleeding, electrolyte imbalance, stroke risk, fluid shifts, infection"
+  },
+  "aphakia": {
+    "medicine_1": "Intraocular Lens Implantation",
+    "medicine_2": "Aphakic Contact Lens",
+    "medicine_3": "Spectacle Correction",
+    "side_effects": "Infection (endophthalmitis), corneal abrasion, vision distortion, glare, lens dislocation"
+  },
+  "appendicitis": {
+    "medicine_1": "Appendectomy (laparoscopic)",
+    "medicine_2": "Ceftriaxone + Metronidazole (antibiotics)",
+    "medicine_3": "Piperacillin-Tazobactam (perforated)",
+    "side_effects": "Bleeding, infection, nausea, C. difficile infection, bowel obstruction"
+  },
+  "arrhythmia": {
+    "medicine_1": "Metoprolol (rate control)",
+    "medicine_2": "Amiodarone (rhythm control)",
+    "medicine_3": "Flecainide (prophylaxis)",
+    "side_effects": "Bradycardia, pulmonary toxicity (amiodarone), pro-arrhythmic effect, thyroid dysfunction, fatigue"
+  },
+  "arthritis of the hip": {
+    "medicine_1": "Ibuprofen",
+    "medicine_2": "Naproxen",
+    "medicine_3": "Celecoxib",
+    "side_effects": "Hip pain, Stiffness, Reduced range of motion, Limping, Groin pain, Difficulty walking"
+  },
+  "atrophic skin condition": {
+    "medicine_1": "Tretinoin",
+    "medicine_2": "Retinol",
+    "medicine_3": "Urea",
+    "side_effects": "Thin skin, Fragility, Wrinkles, Dryness, Bruising, Skin tears"
+  },
+  "atrophic vaginitis": {
+    "medicine_1": "topical estrogen (estradiol cream)",
+    "medicine_2": "ospemifene",
+    "medicine_3": "Un Known",
+    "side_effects": "breast tenderness, vaginal discharge, headache, hot flashes, vaginal discharge, muscle spasm"
+  },
+  "atrophy of the corpus cavernosum": {
+    "medicine_1": "Phosphodiesterase-5 Inhibitors (Sildenafil)",
+    "medicine_2": "Vacuum Erection Device",
+    "medicine_3": "Penile Rehabilitation Therapy",
+    "side_effects": "Headache, flushing, local discomfort, dyspepsia, visual disturbances"
+  },
+  "autonomic nervous system disorder": {
+    "medicine_1": "Fludrocortisone",
+    "medicine_2": "Midodrine",
+    "medicine_3": "Pyridostigmine",
+    "side_effects": "Dizziness, Fainting, Abnormal sweating, Digestive problems, Urinary dysfunction"
+  },
+  "avascular necrosis": {
+    "medicine_1": "Core Decompression",
+    "medicine_2": "Total Joint Replacement",
+    "medicine_3": "Bisphosphonates",
+    "side_effects": "Bleeding, infection, esophageal irritation, osteonecrosis of the jaw, hardware failure"
+  },
+  "balanitis": {
+    "medicine_1": "Clotrimazole",
+    "medicine_2": "Miconazole",
+    "medicine_3": "Fluconazole",
+    "side_effects": "Redness, Swelling, Discharge, Itching, Pain, Foul smell"
+  },
+  "bell palsy": {
+    "medicine_1": "Prednisone",
+    "medicine_2": "Acyclovir",
+    "medicine_3": "Valacyclovir",
+    "side_effects": "Facial drooping, Difficulty closing eye, Drooling, Loss of taste, Facial pain, Headache"
+  },
+  "benign prostatic hyperplasia (bph)": {
+    "medicine_1": "Tamsulosin",
+    "medicine_2": "Alfuzosin",
+    "medicine_3": "Finasteride",
+    "side_effects": "Frequent urination, Weak stream, Urgency, Incomplete emptying, Nocturia, Straining"
+  },
+  "benign vaginal discharge (leukorrhea)": {
+    "medicine_1": "Reassurance (physiologic)",
+    "medicine_2": "Metronidazole (BV-associated)",
+    "medicine_3": "Fluconazole (Candida-associated)",
+    "side_effects": "Patient anxiety, nausea, metallic taste, hepatotoxicity, drug interactions"
+  },
+  "bipolar disorder": {
+    "medicine_1": "lithium",
+    "medicine_2": "valproate",
+    "medicine_3": "quetiapine",
+    "side_effects": "tremor, polyuria, weight gain, thyroid dysfunction, toxicity risk, weight gain, hair loss, tremor, liver toxicity, teratogenicity, sedation, weight gain, dry mouth, metabolic effects"
+  },
+  "bladder disorder": {
+    "medicine_1": "oxybutynin",
+    "medicine_2": "tolterodine",
+    "medicine_3": "mirabegron",
+    "side_effects": "dry mouth, constipation, blurred vision, urinary retention, dry mouth, constipation, blurred vision, urinary retention, hypertension, urinary tract infection, tachycardia, headache"
+  },
+  "bladder obstruction": {
+    "medicine_1": "Tamsulosin (BPH)",
+    "medicine_2": "Finasteride (BPH)",
+    "medicine_3": "Urethral Catheterization (acute)",
+    "side_effects": "Orthostatic hypotension, sexual dysfunction, UTI, urethral trauma, gynecomastia"
+  },
+  "bone disorder": {
+    "medicine_1": "Alendronate (osteoporosis)",
+    "medicine_2": "Zoledronic Acid (Paget's)",
+    "medicine_3": "Calcium + Vitamin D",
+    "side_effects": "Esophageal irritation, flu-like symptoms, constipation, hypocalcemia, osteonecrosis of the jaw"
+  },
+  "bone spur of the calcaneous": {
+    "medicine_1": "ibuprofen",
+    "medicine_2": "corticosteroid injection",
+    "medicine_3": "Un Known",
+    "side_effects": "stomach pain, nausea, GI bleeding, kidney issues, hypertension, local atrophy, pain flare, infection risk, skin depigmentation"
+  },
+  "brachial neuritis": {
+    "medicine_1": "Prednisone",
+    "medicine_2": "Ibuprofen",
+    "medicine_3": "Physical Therapy",
+    "side_effects": "Hyperglycemia, GI upset, immunosuppression, muscle soreness, osteoporosis"
+  },
+  "bunion": {
+    "medicine_1": "Surgical Correction (bunionectomy)",
+    "medicine_2": "Ibuprofen",
+    "medicine_3": "Orthotics/Padding",
+    "side_effects": "Bleeding, GI upset, infection, local irritation, nerve damage"
+  },
+  "bursitis": {
+    "medicine_1": "ibuprofen",
+    "medicine_2": "naproxen",
+    "medicine_3": "corticosteroid injection",
+    "side_effects": "stomach pain, nausea, GI bleeding, kidney issues, hypertension, GI upset, stomach ulcers, kidney effects, hypertension, local atrophy, pain flare, infection risk, skin depigmentation"
+  },
+  "callus": {
+    "medicine_1": "Keratolytic Agents (Salicylic Acid)",
+    "medicine_2": "Pumice Stone Debridement",
+    "medicine_3": "Custom Orthotics",
+    "side_effects": "Skin irritation, local abrasion, redness, discomfort, systemic toxicity (extensive use)"
+  },
+  "cardiomyopathy": {
+    "medicine_1": "Lisinopril (ACE inhibitor)",
+    "medicine_2": "Carvedilol (beta-blocker)",
+    "medicine_3": "Furosemide",
+    "side_effects": "Dry cough, bradycardia, electrolyte imbalance, hypotension, renal impairment"
+  },
+  "cataract": {
+    "medicine_1": "No drug; surgical phacoemulsification",
+    "medicine_2": "Un Known",
+    "medicine_3": "Un Known",
+    "side_effects": "Cloudy vision, Glare, Halos, Faded colors, Poor night vision, Double vision"
+  },
+  "central atherosclerosis": {
+    "medicine_1": "Atorvastatin",
+    "medicine_2": "Rosuvastatin",
+    "medicine_3": "Aspirin",
+    "side_effects": "Chest pain, Shortness of breath, Fatigue, Stroke symptoms, Heart attack symptoms"
+  },
+  "cerebral edema": {
+    "medicine_1": "Mannitol",
+    "medicine_2": "Hypertonic Saline",
+    "medicine_3": "Dexamethasone (vasogenic)",
+    "side_effects": "Electrolyte imbalance, hyperglycemia, renal failure, immunosuppression, hypotension"
+  },
+  "cervical disorder": {
+    "medicine_1": "Cryotherapy (CIN)",
+    "medicine_2": "Conization (LEEP)",
+    "medicine_3": "Colposcopy-guided Biopsy",
+    "side_effects": "Vaginal discharge, bleeding, cramping, cervical stenosis, infection"
+  },
+  "chondromalacia of the patella": {
+    "medicine_1": "Ibuprofen",
+    "medicine_2": "Naproxen",
+    "medicine_3": "Triamcinolone",
+    "side_effects": "Knee pain, Pain when climbing stairs, Pain when sitting, Grinding sensation, Swelling"
+  },
+  "chronic back pain": {
+    "medicine_1": "Physical Therapy",
+    "medicine_2": "Duloxetine",
+    "medicine_3": "Ibuprofen",
+    "side_effects": "Muscle soreness, nausea, GI upset, dry mouth, renal impairment"
+  },
+  "chronic constipation": {
+    "medicine_1": "Polyethylene Glycol (PEG)",
+    "medicine_2": "Bisacodyl",
+    "medicine_3": "Lubiprostone",
+    "side_effects": "Bloating, cramping, diarrhea, nausea, abdominal discomfort"
+  },
+  "chronic glaucoma": {
+    "medicine_1": "Latanoprost",
+    "medicine_2": "Timolol",
+    "medicine_3": "Brimonidine",
+    "side_effects": "Gradual vision loss, Peripheral vision loss, Blurred vision, Eye pain, Halos around lights"
+  },
+  "chronic knee pain": {
+    "medicine_1": "Ibuprofen",
+    "medicine_2": "Naproxen",
+    "medicine_3": "Diclofenac",
+    "side_effects": "Persistent knee pain, Stiffness, Swelling, Reduced range of motion, Weakness, Clicking"
+  },
+  "colonic polyp": {
+    "medicine_1": "aspirin (preventive)",
+    "medicine_2": "observation",
+    "medicine_3": "Un Known",
+    "side_effects": "GI bleeding, stomach upset, bruising, generally well tolerated, minimal systemic side effects"
+  },
+  "conduct disorder": {
+    "medicine_1": "Behavioral Therapy",
+    "medicine_2": "CBT",
+    "medicine_3": "Risperidone (severe aggression)",
+    "side_effects": "Emotional distress, weight gain, sedation, extrapyramidal symptoms, time commitment"
+  },
+  "conversion disorder": {
+    "medicine_1": "SSRIs (sertraline)",
+    "medicine_2": "psychotherapy",
+    "medicine_3": "Un Known",
+    "side_effects": "nausea, insomnia, diarrhea, dry mouth, sexual dysfunction, generally well tolerated, minimal systemic side effects"
+  },
+  "corneal disorder": {
+    "medicine_1": "lubricating eye drops",
+    "medicine_2": "antibiotic eye drops",
+    "medicine_3": "corticosteroid drops",
+    "side_effects": "consult prescriber for side effects, consult prescriber for side effects, consult prescriber for side effects"
+  },
+  "coronary atherosclerosis": {
+    "medicine_1": "atorvastatin",
+    "medicine_2": "aspirin",
+    "medicine_3": "clopidogrel",
+    "side_effects": "muscle pain, liver enzyme elevation, headache, nausea, GI bleeding, stomach upset, tinnitus, bruising, bleeding, bruising, GI upset, rash"
+  },
+  "cranial nerve palsy": {
+    "medicine_1": "prednisone",
+    "medicine_2": "vitamin B12",
+    "medicine_3": "Un Known",
+    "side_effects": "weight gain, hyperglycemia, osteoporosis, insomnia, mood changes, consult prescriber for side effects"
+  },
+  "croup": {
+    "medicine_1": "Un Known",
+    "medicine_2": "Un Known",
+    "medicine_3": "Un Known",
+    "side_effects": "Un Known"
+  },
+  "depression": {
+    "medicine_1": "Un Known",
+    "medicine_2": "Un Known",
+    "medicine_3": "Un Known",
+    "side_effects": "Un Known"
+  },
+  "dermatitis due to sun exposure": {
+    "medicine_1": "hydrocortisone cream",
+    "medicine_2": "aloe vera",
+    "medicine_3": "antihistamines",
+    "side_effects": "hyperglycemia, fluid retention, immunosuppression, weight gain, skin irritation (topical), diarrhea, cramping (oral), drowsiness, dry mouth, urinary retention, blurred vision"
+  },
+  "deviated nasal septum": {
+    "medicine_1": "Septoplasty (surgical)",
+    "medicine_2": "Intranasal Corticosteroids",
+    "medicine_3": "Nasal Decongestants",
+    "side_effects": "Bleeding, nasal dryness, rebound congestion, epistaxis, infection"
+  },
+  "diaper rash": {
+    "medicine_1": "Zinc Oxide Barrier Cream",
+    "medicine_2": "Nystatin (candidal)",
+    "medicine_3": "Hydrocortisone 1% (mild)",
+    "side_effects": "Local irritation, skin atrophy (steroid overuse), rash, allergic reactions, secondary infections"
+  },
+  "dislocation of the ankle": {
+    "medicine_1": "ibuprofen",
+    "medicine_2": "acetaminophen",
+    "medicine_3": "reduction",
+    "side_effects": "stomach pain, nausea, GI bleeding, kidney issues, hypertension, liver damage (overdose), nausea, rash, post-operative pain, infection risk, bleeding, anesthesia risks"
+  },
+  "dislocation of the elbow": {
+    "medicine_1": "ibuprofen",
+    "medicine_2": "acetaminophen",
+    "medicine_3": "reduction procedure",
+    "side_effects": "stomach pain, nausea, GI bleeding, kidney issues, hypertension, liver damage (overdose), nausea, rash, post-operative pain, infection risk, bleeding, anesthesia risks"
+  },
+  "dislocation of the finger": {
+    "medicine_1": "Closed Reduction",
+    "medicine_2": "Splinting",
+    "medicine_3": "Ibuprofen",
+    "side_effects": "Pain, GI upset, joint stiffness, swelling, skin irritation"
+  },
+  "dislocation of the foot": {
+    "medicine_1": "ibuprofen",
+    "medicine_2": "reduction",
+    "medicine_3": "Un Known",
+    "side_effects": "stomach pain, nausea, GI bleeding, kidney issues, hypertension, post-operative pain, infection risk, bleeding, anesthesia risks"
+  },
+  "dislocation of the hip": {
+    "medicine_1": "Morphine",
+    "medicine_2": "Diazepam; closed reduction",
+    "medicine_3": "Un Known",
+    "side_effects": "Hip pain, Deformity, Shortened leg, Inability to move, Numbness, Swelling"
+  },
+  "dislocation of the knee": {
+    "medicine_1": "Ibuprofen",
+    "medicine_2": "Morphine; surgical ligament repair",
+    "medicine_3": "Un Known",
+    "side_effects": "Severe knee pain, Deformity, Swelling, Inability to move, Neurovascular compromise"
+  },
+  "dislocation of the patella": {
+    "medicine_1": "ibuprofen",
+    "medicine_2": "reduction procedure",
+    "medicine_3": "Un Known",
+    "side_effects": "stomach pain, nausea, GI bleeding, kidney issues, hypertension, post-operative pain, infection risk, bleeding, anesthesia risks"
+  },
+  "dislocation of the shoulder": {
+    "medicine_1": "Ibuprofen",
+    "medicine_2": "Diazepam",
+    "medicine_3": "Morphine; reduction procedure",
+    "side_effects": "Shoulder pain, Deformity, Swelling, Numbness, Muscle spasms, Limited movement"
+  },
+  "dislocation of the wrist": {
+    "medicine_1": "Ibuprofen",
+    "medicine_2": "Morphine; reduction and splinting",
+    "medicine_3": "Un Known",
+    "side_effects": "Wrist pain, Deformity, Swelling, Limited movement, Numbness, Tenderness"
+  },
+  "dissociative disorder": {
+    "medicine_1": "Cognitive Behavioral Therapy (CBT)",
+    "medicine_2": "Psychotherapy (trauma-focused)",
+    "medicine_3": "SSRIs (comorbid depression)",
+    "side_effects": "Emotional distress, nausea, insomnia, sexual dysfunction, time commitment"
+  },
+  "diverticulitis": {
+    "medicine_1": "Amoxicillin-Clavulanate (mild)",
+    "medicine_2": "Ciprofloxacin + Metronidazole (moderate)",
+    "medicine_3": "Piperacillin-Tazobactam (severe)",
+    "side_effects": "Diarrhea, nausea, tendinopathy, metallic taste, C. difficile infection"
+  },
+  "diverticulosis": {
+    "medicine_1": "fiber supplements",
+    "medicine_2": "rifaximin",
+    "medicine_3": "mesalamine",
+    "side_effects": "bloating, gas, bowel obstruction (inadequate fluid), cramping, nausea, flatulence, headache, dizziness, GI upset, headache, rash, kidney toxicity (rare)"
+  },
+  "drug abuse": {
+    "medicine_1": "Un Known",
+    "medicine_2": "Un Known",
+    "medicine_3": "Un Known",
+    "side_effects": "Un Known"
+  },
+  "drug abuse (barbiturates)": {
+    "medicine_1": "Phenobarbital (taper)",
+    "medicine_2": "Diazepam",
+    "medicine_3": "Clonidine",
+    "side_effects": "Drowsiness, Confusion, Slurred speech, Coordination problems, Mood changes, Respiratory depression"
+  },
+  "drug abuse (cocaine)": {
+    "medicine_1": "No antidote; Lorazepam",
+    "medicine_2": "Propranolol (for symptoms)",
+    "medicine_3": "Un Known",
+    "side_effects": "Euphoria, Increased energy, Paranoia, Rapid heartbeat, Nosebleeds, Weight loss"
+  },
+  "drug abuse (methamphetamine)": {
+    "medicine_1": "bupropion",
+    "medicine_2": "mirtazapine",
+    "medicine_3": "supportive care",
+    "side_effects": "insomnia, dry mouth, seizure risk, agitation, headache, weight gain, sedation, dry mouth, increased appetite, no significant side effects"
+  },
+  "drug abuse (opioids)": {
+    "medicine_1": "methadone",
+    "medicine_2": "buprenorphine",
+    "medicine_3": "naltrexone",
+    "side_effects": "constipation, sweating, QT prolongation, sedation, dependence, nausea, constipation, headache, sweating, dependence, nausea, abdominal pain, hepatotoxicity, insomnia"
+  },
+  "drug withdrawal": {
+    "medicine_1": "Methadone",
+    "medicine_2": "Buprenorphine",
+    "medicine_3": "Naloxone",
+    "side_effects": "Anxiety, Sweating, Tremors, Nausea, Insomnia, Seizures"
+  },
+  "dry eye of unknown cause": {
+    "medicine_1": "Cyclosporine (Restasis)",
+    "medicine_2": "Lifitegrast",
+    "medicine_3": "Artificial Tears",
+    "side_effects": "Burning, Stinging, Redness, Blurred vision, Sensitivity to light, Eye fatigue"
+  },
+  "dyshidrosis": {
+    "medicine_1": "Triamcinolone (topical potent corticosteroid)",
+    "medicine_2": "Tacrolimus (topical)",
+    "medicine_3": "Psoralen + UVA (PUVA)",
+    "side_effects": "Skin atrophy, local burning, phototoxicity, secondary infections, HPA suppression"
+  },
+  "dysthymic disorder": {
+    "medicine_1": "Sertraline",
+    "medicine_2": "Fluoxetine",
+    "medicine_3": "Escitalopram",
+    "side_effects": "Persistent low mood, Hopelessness, Fatigue, Poor concentration, Low self-esteem, Sleep problems"
+  },
+  "eating disorder": {
+    "medicine_1": "fluoxetine",
+    "medicine_2": "olanzapine",
+    "medicine_3": "lisdexamfetamine (binge eating)",
+    "side_effects": "insomnia, nausea, anxiety, sexual dysfunction, headache, weight gain, sedation, metabolic syndrome, hyperglycemia, consult prescriber for side effects"
+  },
+  "eczema": {
+    "medicine_1": "Triamcinolone (topical corticosteroid)",
+    "medicine_2": "Tacrolimus (topical)",
+    "medicine_3": "Dupilumab (moderate-severe)",
+    "side_effects": "Skin atrophy, local burning, injection site reactions, conjunctivitis, secondary infections"
+  },
+  "empyema": {
+    "medicine_1": "ceftriaxone",
+    "medicine_2": "metronidazole",
+    "medicine_3": "chest drainage",
+    "side_effects": "diarrhea, rash, injection site pain, C. diff risk, metallic taste, nausea, headache, dizziness, generally well tolerated, minimal systemic side effects"
+  },
+  "endometriosis": {
+    "medicine_1": "leuprolide",
+    "medicine_2": "norethindrone",
+    "medicine_3": "dienogest",
+    "side_effects": "hot flashes, decreased libido, osteoporosis, injection site pain, irregular bleeding, nausea, breast tenderness, mood changes, irregular bleeding, headache, depression, weight gain"
+  },
+  "erectile dysfunction": {
+    "medicine_1": "Sildenafil",
+    "medicine_2": "Tadalafil",
+    "medicine_3": "Vardenafil",
+    "side_effects": "Difficulty achieving erection, Difficulty maintaining erection, Reduced sexual desire"
+  },
+  "esophagitis": {
+    "medicine_1": "Omeprazole",
+    "medicine_2": "Esomeprazole",
+    "medicine_3": "Pantoprazole",
+    "side_effects": "Headache, diarrhea, nausea, hypomagnesemia (long-term), C. difficile infection"
+  },
+  "factitious disorder": {
+    "medicine_1": "Psychotherapy (CBT)",
+    "medicine_2": "Limit Setting (coordinated care)",
+    "medicine_3": "Antidepressants (comorbid)",
+    "side_effects": "Emotional distress, nausea, insomnia, resistance to treatment, sexual dysfunction"
+  },
+  "flat feet": {
+    "medicine_1": "ibuprofen",
+    "medicine_2": "orthotics (supportive)",
+    "medicine_3": "Un Known",
+    "side_effects": "stomach pain, nausea, GI bleeding, kidney issues, hypertension, generally well tolerated, minimal systemic side effects"
+  },
+  "floaters": {
+    "medicine_1": "No drug; vitrectomy if severe",
+    "medicine_2": "Un Known",
+    "medicine_3": "Un Known",
+    "side_effects": "Spots in vision, Strings, Cobwebs, Moving shadows"
+  },
+  "food allergy": {
+    "medicine_1": "epinephrine (anaphylaxis)",
+    "medicine_2": "antihistamines",
+    "medicine_3": "corticosteroids",
+    "side_effects": "palpitations, hypertension, anxiety, tremor, drowsiness, dry mouth, urinary retention, blurred vision, hyperglycemia, weight gain, osteoporosis, immunosuppression"
+  },
+  "fracture of the ankle": {
+    "medicine_1": "Surgical ORIF",
+    "medicine_2": "Ankle Splinting/Casting",
+    "medicine_3": "Ibuprofen",
+    "side_effects": "Bleeding, GI upset, infection, joint stiffness, hardware failure"
+  },
+  "fracture of the arm": {
+    "medicine_1": "ibuprofen",
+    "medicine_2": "acetaminophen",
+    "medicine_3": "opioids (severe)",
+    "side_effects": "stomach pain, nausea, GI bleeding, kidney issues, hypertension, liver damage (overdose), nausea, rash, consult prescriber for side effects"
+  },
+  "fracture of the finger": {
+    "medicine_1": "ibuprofen",
+    "medicine_2": "acetaminophen",
+    "medicine_3": "splinting",
+    "side_effects": "stomach pain, nausea, GI bleeding, kidney issues, hypertension, liver damage (overdose), nausea, rash, generally well tolerated, minimal systemic side effects"
+  },
+  "fracture of the foot": {
+    "medicine_1": "Un Known",
+    "medicine_2": "Un Known",
+    "medicine_3": "Un Known",
+    "side_effects": "Un Known"
+  },
+  "fracture of the hand": {
+    "medicine_1": "ibuprofen",
+    "medicine_2": "acetaminophen",
+    "medicine_3": "calcium supplements",
+    "side_effects": "stomach pain, nausea, GI bleeding, kidney issues, hypertension, liver damage (overdose), nausea, rash, constipation, bloating, kidney stones, hypercalcemia"
+  },
+  "fracture of the leg": {
+    "medicine_1": "Ibuprofen",
+    "medicine_2": "Acetaminophen",
+    "medicine_3": "Morphine",
+    "side_effects": "Leg pain, Swelling, Deformity, Inability to bear weight, Bruising, Tenderness"
+  },
+  "fracture of the patella": {
+    "medicine_1": "Ibuprofen",
+    "medicine_2": "Naproxen",
+    "medicine_3": "Acetaminophen",
+    "side_effects": "Knee pain, Swelling, Inability to straighten knee, Bruising, Tenderness"
+  },
+  "fracture of the pelvis": {
+    "medicine_1": "Pelvic External Fixation",
+    "medicine_2": "ORIF (Open Reduction Internal Fixation)",
+    "medicine_3": "Pelvic Binder (acute)",
+    "side_effects": "Bleeding, DVT, infection, nerve damage, skin necrosis (prolonged binder)"
+  },
+  "fracture of the shoulder": {
+    "medicine_1": "ibuprofen",
+    "medicine_2": "acetaminophen",
+    "medicine_3": "opioids (severe)",
+    "side_effects": "stomach pain, nausea, GI bleeding, kidney issues, hypertension, liver damage (overdose), nausea, rash, consult prescriber for side effects"
+  },
+  "gastritis": {
+    "medicine_1": "Omeprazole",
+    "medicine_2": "Amoxicillin + Clarithromycin + PPI (H. pylori)",
+    "medicine_3": "Sucralfate",
+    "side_effects": "Headache, nausea, metallic taste, constipation, C. difficile infection"
+  },
+  "gastroduodenal ulcer": {
+    "medicine_1": "Omeprazole",
+    "medicine_2": "Amoxicillin + Clarithromycin + PPI (H. pylori triple therapy)",
+    "medicine_3": "Sucralfate",
+    "side_effects": "Headache, nausea, metallic taste, constipation, C. difficile infection"
+  },
+  "gastroesophageal reflux disease (gerd)": {
+    "medicine_1": "omeprazole",
+    "medicine_2": "esomeprazole",
+    "medicine_3": "ranitidine",
+    "side_effects": "headache, diarrhea, nausea, abdominal pain, low magnesium, headache, diarrhea, nausea, abdominal pain, headache, dizziness, constipation, diarrhea"
+  },
+  "glaucoma": {
+    "medicine_1": "timolol",
+    "medicine_2": "latanoprost",
+    "medicine_3": "dorzolamide",
+    "side_effects": "bradycardia, bronchospasm, fatigue, depression, iris color change, eyelash growth, eye irritation, stinging, bitter taste, corneal edema"
+  },
+  "hammer toe": {
+    "medicine_1": "Ibuprofen",
+    "medicine_2": "Naproxen; surgical correction",
+    "medicine_3": "Un Known",
+    "side_effects": "Toe deformity, Pain, Corns, Calluses, Difficulty wearing shoes, Swelling"
+  },
+  "head injury": {
+    "medicine_1": "Mannitol (increased ICP)",
+    "medicine_2": "Hypertonic Saline",
+    "medicine_3": "Levetiracetam (seizure prophylaxis)",
+    "side_effects": "Electrolyte imbalance, renal impairment, irritability, hypotension, rebound ICP"
+  },
+  "heart failure": {
+    "medicine_1": "Furosemide",
+    "medicine_2": "Lisinopril (ACE inhibitor)",
+    "medicine_3": "Carvedilol (beta-blocker)",
+    "side_effects": "Electrolyte imbalance, dry cough, bradycardia, hypotension, renal impairment"
+  },
+  "hiatal hernia": {
+    "medicine_1": "omeprazole",
+    "medicine_2": "metoclopramide",
+    "medicine_3": "antacids",
+    "side_effects": "headache, diarrhea, nausea, abdominal pain, low magnesium, tardive dyskinesia, drowsiness, extrapyramidal effects, diarrhea, consult prescriber for side effects"
+  },
+  "hidradenitis suppurativa": {
+    "medicine_1": "Adalimumab",
+    "medicine_2": "Clindamycin (topical)",
+    "medicine_3": "Tetracycline (oral)",
+    "side_effects": "Injection site reactions, increased infection risk, photosensitivity, nausea, skin dryness"
+  },
+  "hydrocele of the testicle": {
+    "medicine_1": "supportive care",
+    "medicine_2": "surgical repair if needed",
+    "medicine_3": "Un Known",
+    "side_effects": "no significant side effects, post-operative pain, infection risk, bleeding, anesthesia risks"
+  },
+  "hydronephrosis": {
+    "medicine_1": "tamsulosin",
+    "medicine_2": "antibiotics (if infected)",
+    "medicine_3": "Un Known",
+    "side_effects": "retrograde ejaculation, dizziness, orthostatic hypotension, consult prescriber for side effects"
+  },
+  "idiopathic absence of menstruation": {
+    "medicine_1": "combined oral contraceptives",
+    "medicine_2": "progesterone",
+    "medicine_3": "Un Known",
+    "side_effects": "nausea, breast tenderness, blood clots, headache, drowsiness, dizziness, breast tenderness, bloating"
+  },
+  "idiopathic excessive menstruation": {
+    "medicine_1": "Ibuprofen",
+    "medicine_2": "Tranexamic Acid",
+    "medicine_3": "Norethisterone",
+    "side_effects": "Heavy periods, Prolonged bleeding, Cramping, Fatigue, Anemia symptoms"
+  },
+  "idiopathic infrequent menstruation": {
+    "medicine_1": "Combined Oral Contraceptive Pill",
+    "medicine_2": "Medroxyprogesterone Acetate",
+    "medicine_3": "Letrozole (if fertility desired)",
+    "side_effects": "Nausea, irregular bleeding, hot flashes, thromboembolism, bone density loss"
+  },
+  "idiopathic irregular menstrual cycle": {
+    "medicine_1": "Combined Oral Contraceptive Pill",
+    "medicine_2": "Medroxyprogesterone Acetate",
+    "medicine_3": "Levonorgestrel IUD",
+    "side_effects": "Nausea, irregular bleeding, thromboembolism, mood changes, headache"
+  },
+  "idiopathic nonmenstrual bleeding": {
+    "medicine_1": "tranexamic acid",
+    "medicine_2": "NSAIDs",
+    "medicine_3": "hormonal therapy",
+    "side_effects": "nausea, diarrhea, headache, thrombosis risk, consult prescriber for side effects, generally well tolerated, minimal systemic side effects"
+  },
+  "idiopathic painful menstruation": {
+    "medicine_1": "Ibuprofen",
+    "medicine_2": "Naproxen Sodium",
+    "medicine_3": "Combined Oral Contraceptive Pill",
+    "side_effects": "GI upset, nausea, thromboembolism, renal impairment, headache"
+  },
+  "impulse control disorder": {
+    "medicine_1": "Lithium",
+    "medicine_2": "Carbamazepine",
+    "medicine_3": "Fluoxetine",
+    "side_effects": "Inability to resist urges, Tension before acting, Relief after acting, Aggression, Mood swings"
+  },
+  "indigestion": {
+    "medicine_1": "omeprazole",
+    "medicine_2": "antacids",
+    "medicine_3": "ranitidine",
+    "side_effects": "headache, diarrhea, nausea, abdominal pain, low magnesium, consult prescriber for side effects, headache, dizziness, constipation, diarrhea"
+  },
+  "inguinal hernia": {
+    "medicine_1": "Laparoscopic Hernia Repair (TAPP/TEP)",
+    "medicine_2": "Open Mesh Repair (Lichtenstein)",
+    "medicine_3": "Watchful Waiting (asymptomatic)",
+    "side_effects": "Bleeding, chronic groin pain, infection, nerve injury, hernia recurrence"
+  },
+  "injury of the ankle": {
+    "medicine_1": "Ibuprofen",
+    "medicine_2": "Naproxen",
+    "medicine_3": "RICE Therapy + Physiotherapy",
+    "side_effects": "GI upset, peptic ulcer, muscle soreness, renal impairment, headache"
+  },
+  "injury to internal organ": {
+    "medicine_1": "morphine",
+    "medicine_2": "IV fluids",
+    "medicine_3": "surgical intervention",
+    "side_effects": "constipation, nausea, sedation, respiratory depression, dependence, fluid overload, electrolyte imbalance, phlebitis, post-operative pain, infection risk, bleeding, anesthesia risks"
+  },
+  "injury to the abdomen": {
+    "medicine_1": "morphine",
+    "medicine_2": "ibuprofen",
+    "medicine_3": "IV fluids",
+    "side_effects": "constipation, nausea, sedation, respiratory depression, dependence, stomach pain, nausea, GI bleeding, kidney issues, hypertension, fluid overload, electrolyte imbalance, phlebitis"
+  },
+  "injury to the arm": {
+    "medicine_1": "ibuprofen",
+    "medicine_2": "acetaminophen",
+    "medicine_3": "opioids (severe)",
+    "side_effects": "stomach pain, nausea, GI bleeding, kidney issues, hypertension, liver damage (overdose), nausea, rash, consult prescriber for side effects"
+  },
+  "injury to the face": {
+    "medicine_1": "Ibuprofen",
+    "medicine_2": "Acetaminophen",
+    "medicine_3": "Amoxicillin-Clavulanate (if infected)",
+    "side_effects": "GI upset, nausea, hepatotoxicity (acetaminophen overdose), renal impairment, allergic reactions"
+  },
+  "injury to the finger": {
+    "medicine_1": "ibuprofen",
+    "medicine_2": "acetaminophen",
+    "medicine_3": "splinting",
+    "side_effects": "stomach pain, nausea, GI bleeding, kidney issues, hypertension, liver damage (overdose), nausea, rash, generally well tolerated, minimal systemic side effects"
+  },
+  "injury to the hand": {
+    "medicine_1": "ibuprofen",
+    "medicine_2": "acetaminophen",
+    "medicine_3": "opioids (severe)",
+    "side_effects": "stomach pain, nausea, GI bleeding, kidney issues, hypertension, liver damage (overdose), nausea, rash, consult prescriber for side effects"
+  },
+  "injury to the hip": {
+    "medicine_1": "ibuprofen",
+    "medicine_2": "acetaminophen",
+    "medicine_3": "opioids (severe)",
+    "side_effects": "stomach pain, nausea, GI bleeding, kidney issues, hypertension, liver damage (overdose), nausea, rash, consult prescriber for side effects"
+  },
+  "injury to the knee": {
+    "medicine_1": "ibuprofen",
+    "medicine_2": "naproxen",
+    "medicine_3": "acetaminophen",
+    "side_effects": "stomach pain, nausea, GI bleeding, kidney issues, hypertension, GI upset, stomach ulcers, kidney effects, hypertension, liver damage (overdose), nausea, rash"
+  },
+  "injury to the leg": {
+    "medicine_1": "ibuprofen",
+    "medicine_2": "acetaminophen",
+    "medicine_3": "opioids (severe)",
+    "side_effects": "stomach pain, nausea, GI bleeding, kidney issues, hypertension, liver damage (overdose), nausea, rash, consult prescriber for side effects"
+  },
+  "injury to the shoulder": {
+    "medicine_1": "ibuprofen",
+    "medicine_2": "acetaminophen",
+    "medicine_3": "corticosteroid injection",
+    "side_effects": "stomach pain, nausea, GI bleeding, kidney issues, hypertension, liver damage (overdose), nausea, rash, local atrophy, pain flare, infection risk, skin depigmentation"
+  },
+  "injury to the spinal cord": {
+    "medicine_1": "Methylprednisolone (acute)",
+    "medicine_2": "Surgical Decompression",
+    "medicine_3": "Physical Rehabilitation",
+    "side_effects": "Hyperglycemia, bleeding, immunosuppression, infection, muscle soreness"
+  },
+  "injury to the trunk": {
+    "medicine_1": "ibuprofen",
+    "medicine_2": "morphine (severe)",
+    "medicine_3": "IV fluids",
+    "side_effects": "stomach pain, nausea, GI bleeding, kidney issues, hypertension, constipation, nausea, sedation, respiratory depression, dependence, fluid overload, electrolyte imbalance, phlebitis"
+  },
+  "intertrigo (skin condition)": {
+    "medicine_1": "Clotrimazole",
+    "medicine_2": "Miconazole",
+    "medicine_3": "Mupirocin",
+    "side_effects": "Skin rash in folds, Redness, Itching, Raw skin, Burning, Odor"
+  },
+  "intestinal disease": {
+    "medicine_1": "Mesalazine",
+    "medicine_2": "Metronidazole",
+    "medicine_3": "Prednisone",
+    "side_effects": "Abdominal pain, Diarrhea, Constipation, Bloating, Nausea, Blood in stool"
+  },
+  "intestinal malabsorption": {
+    "medicine_1": "enzyme supplements",
+    "medicine_2": "vitamin D",
+    "medicine_3": "calcium supplements",
+    "side_effects": "generally well tolerated, minimal systemic side effects, hypercalcemia (overdose), nausea, constipation, constipation, bloating, kidney stones, hypercalcemia"
+  },
+  "intestinal obstruction": {
+    "medicine_1": "Metoclopramide",
+    "medicine_2": "Neostigmine",
+    "medicine_3": "Morphine; surgical correction",
+    "side_effects": "Abdominal pain, Bloating, Nausea, Vomiting, Constipation, No gas passage"
+  },
+  "intussusception": {
+    "medicine_1": "No drug; enema reduction or surgical correction",
+    "medicine_2": "Un Known",
+    "medicine_3": "Un Known",
+    "side_effects": "Sudden severe abdominal pain, Vomiting, Bloody stool, Lump in abdomen, Lethargy"
+  },
+  "ischemic heart disease": {
+    "medicine_1": "Aspirin",
+    "medicine_2": "Atorvastatin",
+    "medicine_3": "Metoprolol",
+    "side_effects": "Chest pain, Shortness of breath, Fatigue, Palpitations, Dizziness, Sweating"
+  },
+  "joint effusion": {
+    "medicine_1": "Triamcinolone",
+    "medicine_2": "Methylprednisolone",
+    "medicine_3": "Ibuprofen",
+    "side_effects": "Joint swelling, Pain, Stiffness, Warmth, Limited movement"
+  },
+  "knee ligament or meniscus tear": {
+    "medicine_1": "Physical Therapy",
+    "medicine_2": "Arthroscopic Surgery",
+    "medicine_3": "Ibuprofen",
+    "side_effects": "Muscle soreness, GI upset, bleeding, infection, joint stiffness"
+  },
+  "lichen planus": {
+    "medicine_1": "Clobetasol (topical)",
+    "medicine_2": "Triamcinolone (intralesional)",
+    "medicine_3": "Hydroxychloroquine (systemic)",
+    "side_effects": "Skin atrophy, retinopathy, pain at injection site, hypopigmentation, nausea"
+  },
+  "macular degeneration": {
+    "medicine_1": "Ranibizumab",
+    "medicine_2": "Bevacizumab",
+    "medicine_3": "Aflibercept",
+    "side_effects": "Blurred central vision, Dark spots, Distorted vision, Difficulty reading, Color changes"
+  },
+  "marijuana abuse": {
+    "medicine_1": "naltrexone",
+    "medicine_2": "N-acetylcysteine",
+    "medicine_3": "counseling",
+    "side_effects": "nausea, abdominal pain, hepatotoxicity, insomnia, nausea, vomiting, flushing, anaphylactoid reaction, generally well tolerated, minimal systemic side effects"
+  },
+  "mitral valve disease": {
+    "medicine_1": "furosemide",
+    "medicine_2": "beta-blockers",
+    "medicine_3": "anticoagulants",
+    "side_effects": "electrolyte imbalance, dehydration, low potassium, dizziness, fatigue, bradycardia, cold extremities, bronchospasm, consult prescriber for side effects"
+  },
+  "mononeuritis": {
+    "medicine_1": "Prednisone",
+    "medicine_2": "Physical Therapy",
+    "medicine_3": "Ibuprofen",
+    "side_effects": "Hyperglycemia, GI upset, muscle soreness, osteoporosis, immunosuppression"
+  },
+  "neurosis": {
+    "medicine_1": "Cognitive Behavioral Therapy (CBT)",
+    "medicine_2": "SSRIs (Sertraline)",
+    "medicine_3": "Buspirone (anxiety)",
+    "side_effects": "Nausea, insomnia, dizziness, sexual dysfunction, emotional distress during therapy"
+  },
+  "noninfectious gastroenteritis": {
+    "medicine_1": "Oral Rehydration Salts (ORS)",
+    "medicine_2": "Loperamide",
+    "medicine_3": "Ondansetron",
+    "side_effects": "Nausea, Vomiting, Diarrhea, Abdominal cramps, Bloating, Fever"
+  },
+  "nose disorder": {
+    "medicine_1": "Fluticasone",
+    "medicine_2": "Budesonide",
+    "medicine_3": "Oxymetazoline",
+    "side_effects": "Nasal congestion, Discharge, Reduced smell, Nose bleeding, Facial pain, Sneezing"
+  },
+  "obsessive compulsive disorder (ocd)": {
+    "medicine_1": "Fluvoxamine",
+    "medicine_2": "Sertraline",
+    "medicine_3": "Clomipramine",
+    "side_effects": "Nausea, insomnia, dry mouth, sexual dysfunction, QT prolongation (clomipramine)"
+  },
+  "open wound of the abdomen": {
+    "medicine_1": "Amoxicillin-Clavulanate",
+    "medicine_2": "Metronidazole",
+    "medicine_3": "Morphine",
+    "side_effects": "Pain, Bleeding, Swelling, Tissue damage, Shock if severe"
+  },
+  "open wound of the arm": {
+    "medicine_1": "Amoxicillin-Clavulanate",
+    "medicine_2": "Cephalexin",
+    "medicine_3": "Tetanus Toxoid",
+    "side_effects": "Pain, Bleeding, Swelling, Bruising, Limited movement, Tissue damage"
+  },
+  "open wound of the back": {
+    "medicine_1": "cephalexin",
+    "medicine_2": "amoxicillin-clavulanate",
+    "medicine_3": "wound care",
+    "side_effects": "diarrhea, nausea, rash, C. diff risk, diarrhea, nausea, rash, yeast infection, generally well tolerated, minimal systemic side effects"
+  },
+  "open wound of the ear": {
+    "medicine_1": "Ciprofloxacin-Dexamethasone (otic)",
+    "medicine_2": "Wound Irrigation",
+    "medicine_3": "Amoxicillin-Clavulanate (oral)",
+    "side_effects": "Local irritation, diarrhea, nausea, increased IOP (steroid), allergic reactions"
+  },
+  "open wound of the finger": {
+    "medicine_1": "Amoxicillin-Clavulanate",
+    "medicine_2": "Cephalexin",
+    "medicine_3": "Tetanus Toxoid",
+    "side_effects": "Pain, Bleeding, Swelling, Limited movement, Bruising"
+  },
+  "open wound of the foot": {
+    "medicine_1": "Amoxicillin-Clavulanate",
+    "medicine_2": "Cephalexin",
+    "medicine_3": "Tetanus Toxoid",
+    "side_effects": "Pain, Bleeding, Swelling, Limited mobility, Tissue damage"
+  },
+  "open wound of the hand": {
+    "medicine_1": "Wound Irrigation + Closure",
+    "medicine_2": "Amoxicillin-Clavulanate",
+    "medicine_3": "Tetanus Prophylaxis",
+    "side_effects": "Infection risk, diarrhea, injection site pain, scarring, allergic reactions"
+  },
+  "open wound of the neck": {
+    "medicine_1": "cephalexin",
+    "medicine_2": "amoxicillin-clavulanate",
+    "medicine_3": "wound care",
+    "side_effects": "diarrhea, nausea, rash, C. diff risk, diarrhea, nausea, rash, yeast infection, generally well tolerated, minimal systemic side effects"
+  },
+  "open wound of the shoulder": {
+    "medicine_1": "Amoxicillin-Clavulanate",
+    "medicine_2": "Cephalexin",
+    "medicine_3": "Tetanus Toxoid",
+    "side_effects": "Pain, Bleeding, Swelling, Limited movement, Bruising, Tissue damage"
+  },
+  "oppositional disorder": {
+    "medicine_1": "Behavioral Parent Training",
+    "medicine_2": "Cognitive Behavioral Therapy (CBT)",
+    "medicine_3": "Risperidone (if severe)",
+    "side_effects": "Weight gain, sedation, emotional distress during therapy, extrapyramidal symptoms, metabolic changes"
+  },
+  "pelvic organ prolapse": {
+    "medicine_1": "estrogen cream",
+    "medicine_2": "pessary devices",
+    "medicine_3": "Un Known",
+    "side_effects": "breast tenderness, vaginal discharge, headache, nausea, consult prescriber for side effects"
+  },
+  "peripheral nerve disorder": {
+    "medicine_1": "Physical Therapy",
+    "medicine_2": "Pregabalin",
+    "medicine_3": "Duloxetine",
+    "side_effects": "Muscle soreness, dizziness, somnolence, nausea, peripheral edema"
+  },
+  "personality disorder": {
+    "medicine_1": "Dialectical Behavior Therapy (DBT)",
+    "medicine_2": "CBT",
+    "medicine_3": "SSRIs (comorbid depression/anxiety)",
+    "side_effects": "Emotional distress, nausea, insomnia, sexual dysfunction, high dropout rate"
+  },
+  "peyronie disease": {
+    "medicine_1": "collagenase (Xiaflex)",
+    "medicine_2": "verapamil injection",
+    "medicine_3": "Un Known",
+    "side_effects": "injection site reactions, swelling, bruising, skin tears, constipation, bradycardia, hypotension, edema"
+  },
+  "phimosis": {
+    "medicine_1": "Betamethasone Cream (topical)",
+    "medicine_2": "Preputioplasty",
+    "medicine_3": "Circumcision",
+    "side_effects": "Skin atrophy, bleeding, infection, scarring, secondary infections"
+  },
+  "pityriasis rosea": {
+    "medicine_1": "Cetirizine",
+    "medicine_2": "Hydrocortisone",
+    "medicine_3": "Acyclovir (severe cases)",
+    "side_effects": "Pink oval rash, Herald patch, Itching, Mild fever, Fatigue, Scaling"
+  },
+  "pneumonia": {
+    "medicine_1": "Amoxicillin",
+    "medicine_2": "Azithromycin",
+    "medicine_3": "Levofloxacin",
+    "side_effects": "Cough with phlegm, Fever, Chills, Shortness of breath, Chest pain, Fatigue"
+  },
+  "pseudotumor cerebri": {
+    "medicine_1": "Acetazolamide",
+    "medicine_2": "Weight Loss (obese patients)",
+    "medicine_3": "Optic Nerve Sheath Fenestration (vision loss)",
+    "side_effects": "Paresthesia, metabolic acidosis, bleeding, gallstones, kidney stones"
+  },
+  "psychosexual disorder": {
+    "medicine_1": "Sildenafil",
+    "medicine_2": "Bupropion",
+    "medicine_3": "Flibanserin",
+    "side_effects": "Sexual dysfunction, Anxiety, Depression, Relationship problems, Loss of sexual interest"
+  },
+  "psychotic disorder": {
+    "medicine_1": "Risperidone",
+    "medicine_2": "Olanzapine",
+    "medicine_3": "Aripiprazole",
+    "side_effects": "Weight gain, sedation, metabolic syndrome, akathisia, extrapyramidal symptoms"
+  },
+  "pulmonic valve disease": {
+    "medicine_1": "furosemide",
+    "medicine_2": "surgical repair",
+    "medicine_3": "Un Known",
+    "side_effects": "electrolyte imbalance, dehydration, low potassium, dizziness, post-operative pain, infection risk, bleeding, anesthesia risks"
+  },
+  "rosacea": {
+    "medicine_1": "Metronidazole (topical)",
+    "medicine_2": "Azelaic Acid (topical)",
+    "medicine_3": "Doxycycline (oral)",
+    "side_effects": "Local skin irritation, dryness, photosensitivity, burning, nausea"
+  },
+  "schizophrenia": {
+    "medicine_1": "Risperidone",
+    "medicine_2": "Olanzapine",
+    "medicine_3": "Haloperidol",
+    "side_effects": "Weight gain, extrapyramidal symptoms, metabolic syndrome, sedation, QT prolongation"
+  },
+  "seasonal allergies (hay fever)": {
+    "medicine_1": "Cetirizine",
+    "medicine_2": "Loratadine",
+    "medicine_3": "Fexofenadine",
+    "side_effects": "Sneezing, Runny nose, Itchy eyes, Congestion, Postnasal drip, Fatigue"
+  },
+  "seborrheic dermatitis": {
+    "medicine_1": "ketoconazole shampoo",
+    "medicine_2": "selenium sulfide",
+    "medicine_3": "hydrocortisone",
+    "side_effects": "consult prescriber for side effects, scalp irritation, hair discoloration, dryness, hyperglycemia, fluid retention, immunosuppression, weight gain"
+  },
+  "skin disorder": {
+    "medicine_1": "Treat cause; Hydrocortisone",
+    "medicine_2": "Betamethasone",
+    "medicine_3": "Tacrolimus",
+    "side_effects": "Rash, Itching, Redness, Swelling, Blisters, Scaling"
+  },
+  "skin pigmentation disorder": {
+    "medicine_1": "Hydroquinone (topical)",
+    "medicine_2": "Tretinoin + Hydroquinone",
+    "medicine_3": "Chemical Peel (TCA)",
+    "side_effects": "Contact dermatitis, photosensitivity, skin irritation, ochronosis, scarring"
+  },
+  "smoking or tobacco addiction": {
+    "medicine_1": "Varenicline",
+    "medicine_2": "Bupropion SR",
+    "medicine_3": "Nicotine Replacement Therapy",
+    "side_effects": "Nausea, insomnia, skin irritation (patches), dry mouth, vivid dreams"
+  },
+  "somatization disorder": {
+    "medicine_1": "Cognitive Behavioral Therapy (CBT)",
+    "medicine_2": "Antidepressants (SSRIs)",
+    "medicine_3": "Regular Scheduled Primary Care Visits",
+    "side_effects": "Nausea, insomnia, sexual dysfunction, emotional distress during therapy, weight changes"
+  },
+  "sprain or strain": {
+    "medicine_1": "Ibuprofen",
+    "medicine_2": "Naproxen",
+    "medicine_3": "R.I.C.E. Therapy + Physical Therapy",
+    "side_effects": "GI upset, peptic ulcer, muscle soreness, renal impairment, headache"
+  },
+  "stricture of the esophagus": {
+    "medicine_1": "Esophageal Dilation (endoscopic)",
+    "medicine_2": "Proton Pump Inhibitors (peptic)",
+    "medicine_3": "Surgical Stricturoplasty",
+    "side_effects": "Perforation, headache, nausea, bleeding, C. difficile infection"
+  },
+  "testicular disorder": {
+    "medicine_1": "Testosterone Replacement (hypogonadism)",
+    "medicine_2": "Orchiopexy (cryptorchidism)",
+    "medicine_3": "Ibuprofen (epididymo-orchitis adjunct)",
+    "side_effects": "Polycythemia, GI upset, bleeding, infection, testicular atrophy"
+  },
+  "tracheitis": {
+    "medicine_1": "Amoxicillin-Clavulanate",
+    "medicine_2": "Ceftriaxone (severe)",
+    "medicine_3": "Dexamethasone (airway)",
+    "side_effects": "Diarrhea, nausea, hyperglycemia, allergic reactions, immunosuppression"
+  },
+  "tricuspid valve disease": {
+    "medicine_1": "Furosemide",
+    "medicine_2": "Spironolactone; surgical repair",
+    "medicine_3": "Un Known",
+    "side_effects": "Fatigue, Swelling, Palpitations, Shortness of breath, Abdominal discomfort, Jaundice"
+  },
+  "urethral disorder": {
+    "medicine_1": "Ciprofloxacin",
+    "medicine_2": "Doxycycline",
+    "medicine_3": "Lidocaine gel",
+    "side_effects": "Painful urination, Discharge, Frequency, Urgency, Incomplete emptying"
+  },
+  "urethral stricture": {
+    "medicine_1": "Lidocaine gel; urethral dilation or urethroplasty",
+    "medicine_2": "Un Known",
+    "medicine_3": "Un Known",
+    "side_effects": "Weak urine stream, Straining, Incomplete emptying, Frequent UTIs, Spraying urine"
+  },
+  "urinary tract obstruction": {
+    "medicine_1": "Un Known",
+    "medicine_2": "Un Known",
+    "medicine_3": "Un Known",
+    "side_effects": "Un Known"
+  },
+  "vitreous degeneration": {
+    "medicine_1": "No drug; vitrectomy if severe",
+    "medicine_2": "Un Known",
+    "medicine_3": "Un Known",
+    "side_effects": "Floaters, Flashes of light, Blurred vision, Shadow in vision"
+  },
+  "vulvar disorder": {
+    "medicine_1": "Clobetasol (lichen sclerosus)",
+    "medicine_2": "Fluconazole (vulvovaginal candidiasis)",
+    "medicine_3": "Estrogen Cream (atrophic)",
+    "side_effects": "Skin atrophy, nausea, local irritation, HPA suppression, spotting"
+  }
+}
